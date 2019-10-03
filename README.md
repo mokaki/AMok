@@ -42,26 +42,35 @@
 
     塵集團 - 多元資產管理 / 資產管理程式訂製
 
-a=android i=iphone w=windosPC
+a=android P=PC i=iphone
 
 
-[餐飲業POS系統 a i w ]()
+[餐飲業POS系統 a p i ]()
 
-[零售業POS系統 a i w ]()
+[零售業POS系統 a p i ]()
 
-[醫務所POS系統 i w ]()
+[醫務所POS系統  p i ]()
 
-[跌打鋪POS系統 a w ]()
+[跌打鋪POS系統 a i ]()
 
-[五金鋪POS系統 i  ]()
+[五金鋪POS系統 i ]()
+
+[IGshop管理系統 a p i]()
+
+[集運管理系統 a p i]()
 
 [一鍵收租程式(租客版 a i]()
 
 [一鍵收租程式(業主版 a i]()
 
-[物業總覽程式 a i w ]()
+[物業總覽程式 a p i ]()
 
-[資產轉電子代幣系統 w ]()
+[資產轉電子代幣系統 p ]()
+
+[IGshop管理系統 a p i]()
+
+
+
 
 ---
 
