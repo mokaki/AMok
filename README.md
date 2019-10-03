@@ -49,15 +49,15 @@ a=android i=iphone w=windosPC
 
 [零售業POS系統 a i w ]()
 
-[醫務所POS系統 a i w ]()
+[醫務所POS系統 i w ]()
 
-[跌打鋪POS系統 a i w ]()
+[跌打鋪POS系統 a w ]()
 
-[五金鋪POS系統 a i w ]()
+[五金鋪POS系統 i  ]()
 
-[一鍵收租程式(租客版 a i w ]()
+[一鍵收租程式(租客版 a i]()
 
-[一鍵收租程式(業主版 a i w ]()
+[一鍵收租程式(業主版 a i]()
 
 [物業總覽程式 a i w ]()
 
